@@ -1,0 +1,7 @@
+To play game, go inside the 'Koikatsu.BetterRepack.RX6' folder, right click and run 'Koikatu' as administrator
+
+If you get any missing dll errors, go inside the _Redist folder and install all 6 programs in the folder
+
+Game is updated to Build RX6
+
+For more FREE STEAM GAMES, visit steamunlocked.net
